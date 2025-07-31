@@ -1,0 +1,3 @@
+[submodule "Sources/CLibLTC/libltc"]
+	path = Sources/CLibLTC/libltc
+	url = https://github.com/x42/libltc.git
